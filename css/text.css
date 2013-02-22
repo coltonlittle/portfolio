@@ -1,0 +1,163 @@
+/*
+  960 Grid System ~ Text CSS.
+  Learn more ~ http://960.gs/
+
+  Licensed under GPL and MIT.
+*/
+
+p {
+	font-size:14px;
+	color:#fff;
+}
+
+h1 {
+	border-bottom:thin solid #fff;
+	font-size: 22px;
+	color:#fff;
+	margin:15px 15px 0px 15px;
+	padding:15px 0 5px 0;
+	text-transform:uppercase;
+}
+
+h2, h3, h4, h5, h6 {
+	font-size:18px;	
+	color:#fff;
+	margin:20px 15px 0 20px;
+	padding:15px 0 0 0;
+}
+
+.center {
+	text-align:center;	
+}
+
+.mark {
+	font-size:16px;	
+	margin: 7px 10px 0 20px;
+	width:750px;
+	padding:7px 0 0 90px;
+}
+
+.medstudent {
+	font-size:14px;	
+	margin:400px 10px 40px 142px;
+	width:640px;
+	text-align:left
+}	
+
+.medstudent2 {
+	font-size:14px;	
+	margin:400px 10px 0 142px;
+	width:640px;
+	text-align:left
+	}	
+
+.tact {
+	text-align:center;
+	font-size:19px;
+	padding-top:30px;
+	width:700px;
+	margin-left:110px;
+}
+
+.footie {
+	color:fff;
+	font-size:11px;
+	text-align:left;	
+	padding:30px 0 0px 0;
+	position:absolute;
+	left:155px;
+}
+
+.center {
+	font-size:20px;
+	text-align::center;	
+}
+
+#messy {
+	width: 700px;	
+	position:absolute;
+	left:340px;
+	top:120px;
+}
+
+#messy2 {
+	width:500px;
+	position:absolute;
+	left:30px;
+	top:25px;	
+}
+
+#messy3 {
+	width:600px;
+	position:absolute;
+	left:60px;
+	top:50px;	
+}
+
+#messy4 {
+	width:600px;
+	position:absolute;
+	left:90px;
+	top:75px;	
+}
+
+.message {
+	font-size:18px;
+	color:#000;
+	z-index:100;
+}
+
+.ty {
+	margin:70px 20px 0 20px;
+	font-size:26px;
+	text-align:center;	
+}
+/* `Basic HTML
+----------------------------------------------------------------------------------------------------*/
+
+b
+hr {
+  border: 0 #ccc solid;
+  border-top-width: 1px;
+  clear: both;
+  height: 0;
+}
+
+/* `Headings
+----------------------------------------------------------------------------------------------------*/
+
+
+
+/* `Spacing
+----------------------------------------------------------------------------------------------------*/
+
+ol {
+  list-style: decimal;
+}
+
+ul {
+  list-style: disc;
+}
+
+li {
+  margin-left: 30px;
+}
+
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset,
+figure {
+  margin-bottom: 20px;
+}
